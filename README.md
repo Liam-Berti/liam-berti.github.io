@@ -1,1 +1,1 @@
-My personal Website based off of Twitter Bootstrap and Grayscale theme
+I'll update this README later. SASS is dead, long live CSS
