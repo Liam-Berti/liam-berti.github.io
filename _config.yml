@@ -28,7 +28,7 @@ github_username:  liam-berti
 linkedin_username: liam-berti
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
