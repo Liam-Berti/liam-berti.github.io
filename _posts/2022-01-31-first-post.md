@@ -3,7 +3,7 @@ layout: post
 title: "Hello, Blog"
 ---
 
-# Do people even read these anymore?
+Do people even read these anymore?
 
 It's a reasonable question, seems like people would rather share
 their inane thoughts on Twitter or something.
